@@ -5,7 +5,7 @@ tags:
   - codespaces
 ---
 
-# <Lab Name>
+# Lab Name
 
 
 |             |                                                                                                    |
